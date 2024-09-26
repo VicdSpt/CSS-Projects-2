@@ -6,7 +6,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 120vh;
 }
 
 .cards{
@@ -23,8 +23,8 @@ body{
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
     overflow: hidden;
-    width: 250px;
-    height: 350px;
+    width: 350px;
+    height: 450px;
 }
 
 .card img{
